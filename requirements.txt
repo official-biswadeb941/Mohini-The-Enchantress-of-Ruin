@@ -11,3 +11,5 @@ asyncio
 socketio
 pyinstaller
 gitpython
+pyperclip
+pynput
