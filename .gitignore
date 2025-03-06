@@ -1,0 +1,17 @@
+.venv/
+pycache/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+Folder/config.json/
+config.json

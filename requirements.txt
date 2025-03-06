@@ -1,0 +1,13 @@
+discord.py
+numpy
+pillow
+opencv-python
+mss
+sounddevice
+textblob
+google-generativeai
+wave
+asyncio
+socketio
+pyinstaller
+gitpython
