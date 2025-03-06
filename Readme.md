@@ -52,7 +52,7 @@ This project is strictly for **educational and research purposes**. It is intend
 
 ## 📞 Contact 📞
 
-For any queries, collaborations, or ethical hacking workshops, reach out to ****.
+For any queries, collaborations, or ethical hacking workshops, reach out to **biswadebmukherjee941@gmail.com**.
 
 ---
 **Stay Aware, Stay Safe!**
