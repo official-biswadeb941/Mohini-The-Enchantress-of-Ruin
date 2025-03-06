@@ -5,6 +5,7 @@
 Mohini is an intelligent succubus bot designed to seduce and lure its victims into a web of deception and control. Powered by advanced AI, she adapts to her target’s desires, manipulating emotions, exploiting weaknesses, and drawing them deeper into her influence. Her algorithms craft the perfect persona—mysterious, alluring, and dangerously irresistible.
 
 The name "Mohini" is derived from the ancient Hindu mythology. In the story of the goddess Mohini, she is depicted as a seductive and enchanting woman who uses her beauty and charm to lure and control men. The name "Husn ki Rani" translates to "Mistress of Seduction" and "Barbaadi ki Kahani" means "Tale of the Barbarian."
+
 But beneath her seductive exterior lies a hidden agenda. Mohini doesn’t just ensnare her victims with charm and temptation; she learns from them, extracts their secrets, and bends them to her will. Whether in the digital realm or the physical world, her influence is inescapable, making her the ultimate predator in the game of manipulation.
 
 ## 🚫 WARNING – STRICTLY RESTRICTED USAGE 🚫
