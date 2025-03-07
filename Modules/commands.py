@@ -1,5 +1,5 @@
 from .nlp import get_intent
-from .control import screenshot, camera, record, video
+from .control import screenshot, camera, record, video, screen_record
 import subprocess
 from .config import load_config
 
@@ -39,6 +39,16 @@ def register_commands(bot):
             await video(message.channel, duration)
             return
         
+        if intent == "screenrecord":
+            duration = 5  # Default duration
+            words = content.split()
+            for i, word in enumerate(words):
+                if word.isdigit():
+                    duration = int(word)
+                    break
+            await screen_record(message.channel, duration)
+            return
+
         if intent == "run command":
             command = message.content.replace("run", "").replace("execute", "").strip()
             if command:
